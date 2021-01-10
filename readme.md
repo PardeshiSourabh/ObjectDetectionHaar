@@ -21,6 +21,6 @@ With the use of image processing unit in Raspberry pi, the motorcycle can only b
 
 ### Results
 
-![Training]("images/training.jpg")
+![Training](images/training.jpg)
 
-![Test]("images/test.bmp")
+![Test](images/test.bmp)
